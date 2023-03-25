@@ -63,20 +63,6 @@ export class App {
       this.tempproejcts.push(tempobj);
       //this.tempproejcts.length + 1;
   
-
-    //   for(let i=0; i<length; i++){
-    //     alert(1)
-    //     tempobj[i]["no"] = count;
-    //     count++;
-    //   this.tempproejcts.push(tempobj);
-    // }
-    // length++;
-    //console.log(this.tempproejcts.push(tempobj));
-    //tempobj.no = this.tempproejcts.length+1;
-    //for (let i = 0; i < length; i++) {
-    // this.tempproejcts.push(tempobj);
-    // console.log(this.tempproejcts);
-    //}
   }
 }
 
